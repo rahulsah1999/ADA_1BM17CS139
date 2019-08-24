@@ -40,7 +40,7 @@ int k=0;
 
 	cout<<"Enter the value of k\n";
 	cin>>k;
-	if (k>=0 && k<=n+1)
+	if (k>=0 && k<=n)
 	{
 		cout<<arr[k-1];
 	}
